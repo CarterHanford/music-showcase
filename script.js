@@ -20,7 +20,7 @@ new Vue({
           name: "Erase Me",
           artist: "Spheres",
           cover: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/img/1.png",
-          source: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/music/1.wav",
+          source: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/music/Erase Me.mp3",
           url: "https://www.youtube.com/watch?v=3uUtWx_DbV8",
           favorited: false
         },
