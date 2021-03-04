@@ -21,7 +21,7 @@ new Vue({
           artist: "Spheres",
           cover: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/img/1.png",
           source: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/music/EraseMe.mp3",
-          url: "https://www.youtube.com/watch?v=3uUtWx_DbV8",
+          url: "https://open.spotify.com/track/7dlK7qbrQeDYTCytSbT8yr?si=6TvMxysnR9mBCorlLRRzXA",
           favorited: false
         },
         {
@@ -37,7 +37,7 @@ new Vue({
           artist: "Spheres",
           cover: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/img/3.png",
           source: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/music/BringItBack.mp3",
-          url: null,
+          url: "https://open.spotify.com/track/5DHVkBvSXDnoBEEXaKKuw2?si=ZflrSqTaQOmSbZgL5FSjWw",
           favorited: false
         },
         {
@@ -45,7 +45,7 @@ new Vue({
           artist: "Spheres",
           cover: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/img/4.png",
           source: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/music/PrayForMe.mp3",
-          url: "https://www.youtube.com/watch?v=IxBnh921KL8",
+          url: "https://open.spotify.com/track/0AnWwxxTfZKEiTY7015uEX?si=wvfFdCSeR3avD_2jiotWzQ",
           favorited: false
         },
         {
@@ -53,7 +53,7 @@ new Vue({
           artist: "Spheres",
           cover: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/img/5.png",
           source: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/music/Bassline.mp3",
-          url: null,
+          url: "https://open.spotify.com/track/5v5UBbHQP2Rooa3RTzm1Wv?si=xSK10X0rS3qEhkE-ddPNoQ",
           favorited: true
         },
         {
@@ -61,7 +61,7 @@ new Vue({
           artist: "Spheres",
           cover: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/img/6.png",
           source: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/music/FollowYou.mp3",
-          url: null,
+          url: "https://open.spotify.com/track/2LY72hQlCze5N9KA0OpGJz?si=aDlr4TEpSyaIG6VE5gFsUQ",
           favorited: false
         },
       ],
