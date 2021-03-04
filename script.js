@@ -17,11 +17,11 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "Mekanın Sahibi",
-          artist: "Norm Ender",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/1.mp3",
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
+          name: "Erase Me",
+          artist: "Spheres",
+          cover: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/img/1.png",
+          source: "https://raw.githubusercontent.com/carterhanford/music-showcase/master/music/1.wav",
+          url: "https://www.youtube.com/watch?v=3uUtWx_DbV8",
           favorited: false
         },
         {
